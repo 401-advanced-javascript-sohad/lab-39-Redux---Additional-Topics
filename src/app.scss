@@ -1,0 +1,53 @@
+body{
+    background-image: url("https://www.impactteachers.com/wp-content/uploads/2017/11/Books.jpg");
+background-size: 1400px 700px;
+}
+p{
+color: rgb(197, 67, 7);
+font-size: x-large;
+font-family: 'Courier New', Courier, monospace;
+
+}
+
+h3,h2 {
+    color: rgb(92, 20, 59);
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 100px;
+
+}
+button{
+    font-size: large;
+    color: brown;
+    background-color:rgb(179, 177, 99);
+    width: 500px;
+    height: 50px;
+    margin-left: 100px;
+}
+h1{
+    color: rgb(197, 67, 7);
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+      
+}
+#root {
+    display: grid;
+    justify-content: left;
+margin-left: 100px;
+
+}
+
+li{
+    color: brown;
+}
+
+.complete {
+    color: green;
+}
+
+.incomplete{
+    color:rgb(105, 27, 3);
+}
+footer{
+    margin-left: 100px;
+    border: medium;
+}

@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/401-advanced-javascript-sohad/lab-39-Redux-Additional-Topics/issues"
   },
-  "homepage": "https://github.com/401-advanced-javascript-sohad/lab-39-Redux-Additional-Topics#readme",
+  "homepage": "https://github.com/401-advanced-javascript-sohad/lab-39-Redux-Additional-Topics",
   "dependencies": {
     "eslint": "^6.8.0",
     "gh-pages": "^2.2.0",
@@ -28,9 +28,22 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.0",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "^3.4.0",
     "redux": "^4.0.5",
     "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.3.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
