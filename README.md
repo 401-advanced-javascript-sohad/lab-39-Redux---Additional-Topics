@@ -6,6 +6,8 @@
 
 - [submission PR](https://github.com/401-advanced-javascript-sohad/lab-39-Redux-Additional-Topics/pull/1)
 
+- [front-end application](https://relaxed-euclid-341f39.netlify.com)(Netlify)
+
 
 ### Setup
 
@@ -22,4 +24,5 @@
 
 Link to an image of the UML for your application and response to events
 - [uml](.assets/lab39.jpg)(UML)
+
 
