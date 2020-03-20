@@ -4,7 +4,7 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/401-advanced-javascript-sohad/lab-39-Redux-Additional-Topics/pull/1)
 
 
 ### Setup
@@ -21,5 +21,5 @@
 #### UML
 
 Link to an image of the UML for your application and response to events
-- [uml]()(UML)
+- [uml](.assets/lab39.jpg)(UML)
 
